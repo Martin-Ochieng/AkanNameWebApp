@@ -11,11 +11,11 @@ Martin Ochieng
 2. Install dependencies: `npm install`.
 3. Build project: `npm run build`.
 4. Start the server: `npm start`.
-5. Your browser will open automatically
+5. Your browser will open automatically.
 
-## BDD
-- Enter your birthday and select your gender.
-- Click the submit button to see your Akan name.
+## BDD (Behavior-Driven Development)
+- User enters their birthday and selects their gender.
+- Upon clicking the submit button, the application calculates and displays the user's Akan name based on their gender and birthdate.
 
 ## Technologies Used
 - HTML
@@ -24,8 +24,8 @@ Martin Ochieng
 - Node.js
 - Express.js
 
+## Contact Information
+For any inquiries, please contact Martin Ochieng at martinochieng9360@gmail.com.
+
 ## License
 This project is licensed under the MIT License.
-
-## Contact
-For any inquiries, please contact martinochieng9360@gmail.com.
